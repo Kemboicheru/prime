@@ -1,1 +1,3 @@
-Working on the documentation as I am new to Jac and AI programming
+Prime Numbers
+
+This is a jaclang solution that generates prime numbers from 0 to a user provided number
